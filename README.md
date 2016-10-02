@@ -8,6 +8,16 @@ The game can be started by opening the index.html file in a browser.
 For windows use either Google Chrome or Mozilla Firefox for better rendering.
 For IOS use either of the above specified browsers if available or use Safari.
 
+##Movement##
+You can move the player in all directions by making use of the arrow keys in the keyboard. The Enemies are moved automatically and only the speed can be controlled.(look Up at enemy speed section for more details).
+
+###Key Bindings###
+
+* Up - Up Arrow
+* Down - Down Arrow
+* Left - Left Arrow
+* Right - Right Arrow
+
 ##Customizations##
 
 ###Player Characterisation###
